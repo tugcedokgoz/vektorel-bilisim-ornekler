@@ -1,0 +1,1 @@
+# vektorel-bilisim-ornekler
